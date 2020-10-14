@@ -1,0 +1,2 @@
+# MILA-Machine-Learning-Internship_Automated-Pilot-Performance-Assessment
+This project applied a probabilistic class of artificial intelligence algorithms in an unsupervised learning domain called Gaussian Mixture Model (GMM) for clustering pilot training data and detecting flights with unusual data patterns. The approach can promote the capability of datadriven adaptive pilot training tools and to help the instructors select the most appropriate training exercises, ensuring targeted training recommendations.
